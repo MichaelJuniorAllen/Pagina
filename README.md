@@ -51,6 +51,3 @@ Este proyecto demuestra mis habilidades en:
 - Buenas prácticas de estructura HTML
 
 
-
-## 📂 Estructura del Proyecto
-
