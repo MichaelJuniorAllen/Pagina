@@ -3,9 +3,6 @@
 Bienvenido a mi portfólio personal como desarrollador web.  
 Este proyecto fue desarrollado para presentar mis habilidades, proyectos y experiencia como programador junior.
 
-🔗 **Demo en vivo:** (aquí puedes colocar GitHub Pages si lo activas)  
-🔗 **Repositorio:** https://github.com/MichaelJuniorAllen/tu-repo
-
 
  📌 Sobre el Proyecto
 
